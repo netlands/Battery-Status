@@ -1,5 +1,4 @@
 Solar System:
-
 Panasonic AiSEG HEMS MKN700 
 Panasonic VBPC355 (Power Conditioner 5.5kW)
 Solar Cell Module (s) VBHN240SJ21 HIT panels
