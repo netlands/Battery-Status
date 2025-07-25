@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Monitoring Device"
+		},
+		{
+			"path": "Node-RED Flows"
+		}
+	],
+	"settings": {}
+}
