@@ -1,6 +1,6 @@
 # Battery Status
 
-A combination of NODE-RED flows and a Particle.io Photon to monitor battery and solar generation status.
+A combination of Node-RED flows and a Particle.io Photon to monitor battery and solar generation status.
 The devices are a little older or use (semi) proprietary communications, and as such, do not integrate directly with a smart home environment.
 
 
